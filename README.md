@@ -7,7 +7,6 @@ For each TCP/IP connection, 41 quantitative and qualitative features are obtaine
 ●	Anomalous
 
 Data basically represents the packet data for a time duration of 2 seconds.1-9 Columns: basic features of packet (type 1)
-
 10-22 columns: employ the content features (type 2)
 23-31 columns: employ the traffic features with 2 seconds of time window (type 4)
 32-41 columns: employ the host based features
